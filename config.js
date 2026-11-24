@@ -7,5 +7,5 @@ export const CHAIN = {
   blockExplorers: { default: { name: "Aevum Explorer", url: "https://explorer-test.qday.info" } },
 };
 export const TUSD8 = "0x456569838f1d43009A91ebA4263147Afd7233483";
-export const REGISTRY = "0x0000000000000000000000000000000000000000";
-export const BOOK = "0x0000000000000000000000000000000000000000";
+export const REGISTRY = "0xC0994410270686F41c5401AEaF8abc7fd9a77d0c";
+export const BOOK = "0x5dA0203c562d46b6dA6e891c1B87da3E729F8E60";
