@@ -52,10 +52,11 @@ cd web && python3 -m http.server 8080            # open http://localhost:8080
 ```
 Test tokens: https://faucet.qday.info/en (tQDAY for gas, tUSD8).
 
-## Deployed (Aevum Testnet)
-* PayeeRegistry: `TBD`
-* InvoiceBook: `TBD`
-* Demo transactions: see `demo-txs.md`
+## Deployed (Aevum Testnet, chain 44005) — source verified on Blockscout
+* PayeeRegistry: [`0xC0994410270686F41c5401AEaF8abc7fd9a77d0c`](https://explorer-test.qday.info/address/0xC0994410270686F41c5401AEaF8abc7fd9a77d0c)
+* InvoiceBook: [`0x5dA0203c562d46b6dA6e891c1B87da3E729F8E60`](https://explorer-test.qday.info/address/0x5dA0203c562d46b6dA6e891c1B87da3E729F8E60)
+* Live web app: https://w1nter625.github.io/truepay-aevum/ (try invoice **#3**, expected name `Lim Bakery Pte Ltd`)
+* Every demo transaction (register, verify, create, pay, refund, cancel, plus the simulated tamper reverts): [`demo-txs.md`](demo-txs.md)
 
 ## Safety, trust and controls
 * Least privilege: the contract never holds funds (direct payer → payee transfer); no admin can move money.

@@ -6,10 +6,10 @@ URL: https://dorahacks.io/hackathon/qday  (submit before 2026-12-11 08:00 UTC = 
 **Track:** Confirmation of Payee (secondary: Invoice Payments)
 **Team:** Wynnter (solo)
 **Repo:** https://github.com/w1nter625/truepay-aevum
-**Live demo:** https://w1nter625.github.io/truepay-aevum/ (gh-pages branch; Pages must be enabled in repo Settings)
+**Live demo:** https://w1nter625.github.io/truepay-aevum/ (GitHub Pages)
 **Demo video:** <YouTube/Drive link, < 3 min, screen recording + TTS narration>
-**Contracts (Aevum testnet):** PayeeRegistry <addr>, InvoiceBook <addr>
-**Tx proof:** paste demo-txs.md
+**Contracts (Aevum testnet, verified):** PayeeRegistry https://explorer-test.qday.info/address/0xC0994410270686F41c5401AEaF8abc7fd9a77d0c · InvoiceBook https://explorer-test.qday.info/address/0x5dA0203c562d46b6dA6e891c1B87da3E729F8E60
+**Tx proof:** https://github.com/w1nter625/truepay-aevum/blob/main/demo-txs.md
 
 ## Description
 (Use README sections "The problem", "What TruePay does", "Safety, trust and controls".)
