@@ -5,8 +5,8 @@ URL: https://dorahacks.io/hackathon/qday  (submit before 2026-12-11 08:00 UTC = 
 **Tagline:** Stablecoin invoices with bank-style Confirmation of Payee and on-chain spend controls.
 **Track:** Confirmation of Payee (secondary: Invoice Payments)
 **Team:** Wynnter (solo)
-**Repo:** <public GitHub repo URL — REQUIRED by rules>
-**Live demo:** <static hosting URL of web/ (e.g. GitHub Pages / Codeberg Pages)>
+**Repo:** https://github.com/w1nter625/truepay-aevum
+**Live demo:** https://w1nter625.github.io/truepay-aevum/ (gh-pages branch; Pages must be enabled in repo Settings)
 **Demo video:** <YouTube/Drive link, < 3 min, screen recording + TTS narration>
 **Contracts (Aevum testnet):** PayeeRegistry <addr>, InvoiceBook <addr>
 **Tx proof:** paste demo-txs.md
