@@ -1,7 +1,7 @@
 # DoraHacks BUIDL submission — Aevum Builder Challenge #1
 URL: https://dorahacks.io/hackathon/qday  (submit before 2026-12-11 08:00 UTC = 16:00 SGT)
 
-**Demo video:** https://w1nter625.github.io/truepay-aevum/video.html (player page) · direct MP4: https://github.com/w1nter625/truepay-aevum/releases/download/v1.0/truepay-demo.mp4 (2:28, English narration + burned-in captions)
+**Demo video:** https://w1nter625.github.io/truepay-aevum/video.html (player page) · direct MP4: https://w1nter625.github.io/truepay-aevum/truepay-demo.mp4 (mirror: GitHub Release v1.0 https://github.com/w1nter625/truepay-aevum/releases/download/v1.0/truepay-demo.mp4) (2:28, English narration + burned-in captions)
 
 ---
 ## Ready-to-paste BUIDL fields
